@@ -1,0 +1,15 @@
+```
+/src
+  /components
+    EventForm.tsx
+    EventList.tsx
+    EventCard.tsx
+    CalendarView.tsx
+  /hooks
+    useEvents.ts
+  /styles
+    main.css
+  App.tsx
+  index.tsx
+  types.ts
+  ```
